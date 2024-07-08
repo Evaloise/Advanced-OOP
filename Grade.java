@@ -1,4 +1,4 @@
-public class Grader {
+public class Grade {
     public static void main(String[] args) {
         int marks = 85; 
         int passMark = 75;      
